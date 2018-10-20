@@ -1,0 +1,23 @@
+
+.article {
+  padding: 10px;
+  border: 1px solid blue;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.article__header {
+  font-size: 1.5em;
+}
+
+.article__footer {
+  padding: 0 30px;
+}
+
+.goldenrod {
+  background-color: goldenrod;
+}
+
+.dashed {
+  border: 1px dashed black;
+}
